@@ -48,7 +48,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Owner", url="https://t.me/Kira_Yagamai),
+                        InlineKeyboardButton("Owner", url="https://t.me/Kira_Yagamai"),
                         InlineKeyboardButton("All Channel", url="https://t.me/addlist/Mgnn8uZEPu4yNmM1")
                     ],
                     [
