@@ -19,7 +19,7 @@ API_HASH = os.environ.get("API_HASH", "2e1f330564f445d74f4f9d2cd5782c0a")
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002276198138"))
 
 #OWNER ID
-OWNER_ID = int(os.environ.get("OWNER_ID", "6179290520"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "7035751998"))
 
 #Port
 PORT = os.environ.get("PORT", "8080")
@@ -29,8 +29,8 @@ DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://kaido0099878:XR5TnmaT55ne
 DB_NAME = os.environ.get("DATABASE_NAME", "@M1tsur1_bot")
 
 #force sub channel id, if you want enable force sub
-FORCESUB_CHANNEL = int(os.environ.get("FORCESUB_CHANNEL", "-1002201235972"))
-FORCESUB_CHANNEL2 = int(os.environ.get("FORCESUB_CHANNEL2", "-1002210350227"))
+FORCESUB_CHANNEL = int(os.environ.get("FORCESUB_CHANNEL", "-1002681758640"))
+FORCESUB_CHANNEL2 = int(os.environ.get("FORCESUB_CHANNEL2", "-1002656606106"))
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
